@@ -7,6 +7,6 @@
 [submodule "bucketwheel"]
 	path = bucketwheel
 	url = git@github.com:tlevine/bucket-wheel.git
-[submodule "conveyorbelt"]
-	path = conveyorbelt
-	url = git@github.com:tlevine/conveyorbelt.git
+[submodule "dblist"]
+	path = dblist
+	url = git@github.com:tlevine/dblist.git
