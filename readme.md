@@ -1,4 +1,4 @@
-Earthmover is a way of writing concise, modular programs for
+Earthmover provides a way of writing concise, modular programs for
 extracting data from messy sources like websites.
 It has four components, each of which can be used independently of the others.
 
@@ -8,5 +8,5 @@ It has four components, each of which can be used independently of the others.
 
 **dblist** is a list-like object backed by a plain text file or a SQLite databese. BucketWheel uses it to maintain a stack across scraper runs.
 
-**BucketWheel** is the Earthmover's controller. It abstracts the less variable aspects of scrapers, embeds scraping best practices
+**BucketWheel** abstracts the less variable aspects of scrapers, embeds scraping best practices
 and encourages a modular design of scrapers.
