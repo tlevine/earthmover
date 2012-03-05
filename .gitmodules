@@ -6,7 +6,7 @@
 	url = git@github.com:tlevine/highwall.git
 [submodule "bucketwheel"]
 	path = bucketwheel
-	url = git@github.com:tlevine/bucketwheel.git
+	url = git@github.com:tlevine/bucket-wheel.git
 [submodule "conveyorbelt"]
 	path = conveyorbelt
 	url = git@github.com:tlevine/conveyorbelt.git
