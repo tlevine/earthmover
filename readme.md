@@ -1,6 +1,6 @@
-Earthmover is a framework for writing web scrapers
-and other data extractors. It has four components,
-each of which can be used independently of the others.
+Earthmover is a way of writing concise, modular programs for
+extracting data from messy sources like websites.
+It has four components, each of which can be used independently of the others.
 
 **Highwall** is a relaxing interface to SQLite. It makes common database commands more concise and Pythonic.
 
