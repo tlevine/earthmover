@@ -1,0 +1,12 @@
+[submodule "dumptruck"]
+	path = dumptruck
+	url = git@github.com:tlevine/dumptruck.git
+[submodule "highwall"]
+	path = highwall
+	url = git@github.com:tlevine/highwall.git
+[submodule "bucketwheel"]
+	path = bucketwheel
+	url = git@github.com:tlevine/bucketwheel.git
+[submodule "conveyorbelt"]
+	path = conveyorbelt
+	url = git@github.com:tlevine/conveyorbelt.git
