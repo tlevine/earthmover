@@ -1,7 +1,7 @@
-[submodule "dumptruck"]
+[submodule "dieselfuel"]
 	path = dieselfuel
 	url = git@github.com:tlevine/dieselfuel.git
-[submodule "highwall"]
+[submodule "dumptruck"]
 	path = dumptruck
 	url = git@github.com:tlevine/dumptruck.git
 [submodule "bucketwheel"]
