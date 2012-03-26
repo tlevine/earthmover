@@ -2,9 +2,9 @@ Earthmover provides a way of writing concise, modular programs for
 extracting data from messy sources like websites.
 It has four components, each of which can be used independently of the others.
 
-**Highwall** is a relaxing interface to SQLite. It makes common database commands more concise and Pythonic.
+**Dumptruck** is a relaxing interface to SQLite. It makes common database commands more concise and Pythonic.
 
-**Dumptruck** is an assortment of helpers for scraping. For example, it provides a function to get options from drop-down box.
+**DieselFuel** is an assortment of helpers for scraping. For example, it provides a function to get options from drop-down box.
 
 **dblist** is a list-like object backed by a plain text file or a SQLite databese. BucketWheel uses it to maintain a stack across scraper runs.
 
