@@ -1,9 +1,9 @@
 [submodule "dumptruck"]
 	path = dumptruck
-	url = git@github.com:tlevine/dumptruck.git
+	url = git@github.com:tlevine/dieselfuel.git
 [submodule "highwall"]
 	path = highwall
-	url = git@github.com:tlevine/highwall.git
+	url = git@github.com:tlevine/dumptruck.git
 [submodule "bucketwheel"]
 	path = bucketwheel
 	url = git@github.com:tlevine/bucket-wheel.git
